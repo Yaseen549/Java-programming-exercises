@@ -16,10 +16,23 @@ public class BankingApplication {
             System.out.println("Exiting from system... ");
         }
         else if(operation == 2){
-            System.out.println("You choose money transferring, you can transfer money");
+            System.out.println("Please enter your balance: ");
+            int balance = scanner.nextInt();
+            System.out.println("Please enter how much money you want to transfer: ");
+            int transfer_amount = scanner.nextInt();
+            System.out.println("Your new balance: " + (balance-transfer_amount));
         }
         else if(operation == 3){
-            System.out.println("you can get money...");
+            System.out.println("Enter your balance: ");
+            int balance = scanner.nextInt();
+            System.out.println("How much money you want to get: ");
+            int get_amount = scanner.nextInt();
+            System.out.println("Your new balance: " + (balance - get_amount));
+
+
+        }
+        else{
+            System.out.println("Invalid Operation!");
         }
 
 

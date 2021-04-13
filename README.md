@@ -6,3 +6,7 @@
 4. Banking Application P2
 5. Banking Application Final Code
 6. Swapping two numbers
+
+## Java Methods
+
+<img src="img/method.png" width="650" height="450">

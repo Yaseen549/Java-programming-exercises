@@ -10,3 +10,5 @@
 ## Java Methods
 
 <img src="img/method.png" width="650" height="450">
+
+7. Access Class (folder)

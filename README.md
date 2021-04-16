@@ -9,6 +9,7 @@
 
 ## Java Methods
 
-<img src="img/method.png" width="650" height="450">
+<img src="img/method.png" width="550" height="350">
 
 7. Access Class (folder)
+8. Abstraction

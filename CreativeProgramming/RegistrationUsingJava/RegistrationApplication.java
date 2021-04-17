@@ -9,8 +9,8 @@ public class RegistrationApplication{
         String username = "EnterYourNameHere";
         String password = "EnterYourOwnPasswordHere";
 
-        String default_username = "username";
-        String default_password = "password";
+        String default_username = "mike";
+        String default_password = "1234";
         int pass = 3;
 
         System.out.println("For sample");

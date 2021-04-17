@@ -17,3 +17,4 @@
 10. Arithmetic Operations
 11. Method Overloading
 12. Finding Prime Numbers
+13. FizzBuzz

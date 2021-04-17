@@ -18,3 +18,4 @@
 11. Method Overloading
 12. Finding Prime Numbers
 13. FizzBuzz
+14. String methods and registration application

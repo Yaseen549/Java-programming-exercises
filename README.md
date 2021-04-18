@@ -9,8 +9,6 @@
 
 ## Java Methods
 
-<img src="img/method.png" width="550" height="350">
-
 7. Access Class (folder)
 8. Abstraction
 9. Abstraction with Constructor
@@ -22,3 +20,4 @@
 15. Constructor with getter and setter
 16. Inheritance + Employee Application
 17. Has A Comparison
+18. Data Structure [Arrays, MultiDimensionalArray, Array List, Map and HashMap]

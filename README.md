@@ -20,3 +20,5 @@
 13. FizzBuzz
 14. String methods and registration application
 15. Constructor with getter and setter
+16. Inheritance + Employee Application
+17. Has A Comparison

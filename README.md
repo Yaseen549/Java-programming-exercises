@@ -24,3 +24,4 @@
 19. Method Call
 20. IT Company mini Project
 21. New Abstract Classes
+22. Generics

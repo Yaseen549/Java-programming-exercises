@@ -21,3 +21,4 @@
 16. Inheritance + Employee Application
 17. Has A Comparison
 18. Data Structure [Arrays, MultiDimensionalArray, Array List, Map and HashMap]
+19. Method Call

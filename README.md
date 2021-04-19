@@ -22,3 +22,5 @@
 17. Has A Comparison
 18. Data Structure [Arrays, MultiDimensionalArray, Array List, Map and HashMap]
 19. Method Call
+20. IT Company mini Project
+21. New Abstract Classes

@@ -29,4 +29,4 @@
 
 ## Java Frameworks
 
-24. Collections - ArrayList
+24. Collections - ArrayList, LinkedList, Vector, Stack

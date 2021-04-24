@@ -26,3 +26,7 @@
 21. New Abstract Classes
 22. Generics
 23. Mini Elevator Project
+
+## Java Frameworks
+
+24. Collections - ArrayList

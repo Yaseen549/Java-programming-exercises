@@ -30,3 +30,4 @@
 ## Java Frameworks
 
 24. Collections - ArrayList, LinkedList, Vector, Stack
+25. CollectionList
